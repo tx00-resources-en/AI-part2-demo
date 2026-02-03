@@ -1,6 +1,6 @@
 # Fitness Plan Generator – Full‑Stack AI Integration
 
-## 📋 Table of Contents
+## Table of Contents
 - [Quickstart](#-quickstart)
 - [Overview](#-overview)
 - [Project Structure](#-project-structure)
