@@ -1,0 +1,23 @@
+{
+  "name": "fitness-plan-generator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "AI-powered fitness plan generator using Google Gemini API with Express.js backend",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["fitness", "ai", "gemini", "express", "nodejs", "health"],
+  "author": "Metro College",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
