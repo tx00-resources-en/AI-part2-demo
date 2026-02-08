@@ -54,6 +54,13 @@ POST /api/tour-suggestions
 }
 ```
 
+
+**Commit messages: Recommended format**
+
+- *feat* Short for feature. Used when you add a new feature or new functionality to the codebase.
+- *refactor* used when you change existing code without altering behavior. This improves structure, readability, or organization.
+- *chore* used for maintenance tasks that don’t change application behavior. Examples: updating dependencies, adding logging, renaming files, config changes.
+
 ---
 
 ## Prerequisites
